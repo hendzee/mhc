@@ -26,3 +26,6 @@ Fourth feature is about Bookmark. User can marking one ore more items to be mark
 ### Detail
 The last feature is about Detail. The user can move to detail page to get more detail about image of the item. Just tap the card item in the home page or search page.<br>
 ![Detail Feature](https://github.com/hendzee/mhc/blob/main/info/detail.png)
+
+### Instalation
+Open "dist" folder download the apk files with android phone. After it already downloaded, double tap and install.
