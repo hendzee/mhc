@@ -20,7 +20,8 @@ It will show only item that have "Even" category_name items.<br>
 ![Filter Feature](https://github.com/hendzee/mhc/blob/main/info/filter.png)
 
 ### Bookmark
-Fourth feature is about Bookmark. User can marking one ore more items to be marked. Marked button is placed on item card (on the home or search page) and on the detail page. The item that have marked will have darker icon on their card, and in the detail page button will be lighter with the text to remove bookmark.
+Fourth feature is about Bookmark. User can marking one ore more items to be marked. Marked button is placed on item card (on the home or search page) and on the detail page. The item that have marked will have darker icon on their card, and in the detail page button will be lighter with the text to remove bookmark.<br>
+![Detail Feature](https://github.com/hendzee/mhc/blob/main/info/detail.png)
 
 ### Detail
 The last feature is about Detail. The user can move to detail page to get more detail about image of the item. Just tap the card item in the home page or search page.<br>
