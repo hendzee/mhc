@@ -2,7 +2,8 @@
 This simple list application was built to complete test phase on MHC Medical Network Pte Ltd as Mobile Developers position. This application was built by React Native and had some feature such as List, Search, Filter, Bookmark and Detail.
 
 ### List
-The first feature is List that placed on home page. There are some information such as image thumbnail, name, description and bookmark button to bookmarking the item.
+The first feature is List that placed on home page. There are some information such as image thumbnail, name, description and bookmark button to bookmarking the item. <br>
+![alt text](https://github.com/hendzee/mhc/blob/main/info/detail.png)
 
 ### Search 
 Second feature is about Search. User can search item basend on the name of the item. Just tap magnifier icon on the home page, then search session will be appear. Put what the name that want to be search and application will show list of the items that has similar name and text value
